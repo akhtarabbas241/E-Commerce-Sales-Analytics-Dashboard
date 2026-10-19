@@ -1,4 +1,4 @@
-# E-Commerce Sales Analytics Dashboard | Power BI
+# E-Commerce Sales Analytics Dashboard 
 ## 1. Project Overview
 
 This project is an interactive E-Commerce Sales Analytics Dashboard developed using Microsoft Power BI to analyze sales performance and business operations for an online store in Pakistan.
@@ -34,13 +34,9 @@ The following tools and technologies were used or are relevant to this project:
 The dashboard is designed to provide a complete view of e-commerce sales performance in a single interactive report.
 
 
-
 ![Ecommerce Sales Dashboard](./Ecommerce_Sales_Dashboard.png)
 
-![Excelclean.Pnj.PNG](./Excelclean.Pnj.PNG)
-
 ### A. KPI Cards
-
 
 Ecommerce_Sales_Dashboard.png
 
@@ -59,7 +55,6 @@ These KPIs provide a quick overview of business performance, sales volume, produ
 ### B. Monthly Sales Trend by Month
 
 This chart displays sales performance across different months.
-
 It helps to:
 - Monitor monthly sales performance.
 - Identify changes in sales over time.
@@ -69,7 +64,6 @@ It helps to:
 ### C. Sales by Category
 
 This visualization shows how total sales are distributed across product categories.
-
 It helps to:
 - Compare category-wise sales contributions.
 - Identify high-performing categories.
@@ -79,7 +73,6 @@ It helps to:
 ### D. Sales by City
 
 This chart compares sales performance across different cities in Pakistan.
-
 It helps to:
 - Identify cities generating higher sales.
 - Compare regional sales performance.
@@ -89,7 +82,6 @@ It helps to:
 ### E. Top 5 Categories by Sales
 
 This chart highlights the leading product categories based on sales.
-
 It helps to:
 - Identify the strongest categories.
 - Compare revenue contributions.
@@ -99,7 +91,6 @@ It helps to:
 ### F. Order Status Analysis
 
 This visualization presents the distribution of orders by status, including:
-
 - Cancelled
 - Delivered
 - Pending
@@ -115,7 +106,6 @@ It helps to:
 ### G. Top 5 Products by Sales
 
 This chart compares the sales performance of the leading products shown in the dashboard, including Laptop, Mobile Phone, Refrigerator, Smart TV, and Tablet.
-
 It helps to:
 - Compare product-level sales.
 - Identify leading products.
@@ -125,7 +115,6 @@ It helps to:
 ### H. Payment Method Analysis
 
 This visualization shows the distribution of orders across payment methods, including:
-
 - Cash
 - Credit Card
 - EasyPaisa
@@ -195,19 +184,17 @@ The general workflow for this project includes:
 The repository can be organized as follows:
 
 ecommerce-sales-analytics-powerbi/
-│
-├── README.md
-│
-├── dashboard/
-│   └── ecommerce_sales_dashboard.pbix
-│
-├── screenshots/
-│   └── ecommerce_sales_dashboard.png
-│
-└── data/
-    └── ecommerce_sales_data.xlsx
 
-Only include files that are available and safe to share. The data folder is optional.
+ README.md
+
+ dashboard/
+ EcommerceBashboard.pbix
+ screenshots/
+ Ecommerce_Sales_Dashboard.png
+ Excelclean.Pnj.PNG
+ Ecommerce Raw Data1.PNG
+\data/
+ExcelCleanData.xlsx
 
 ## 10. How to View the Project
 
