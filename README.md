@@ -37,7 +37,7 @@ The dashboard is designed to provide a complete view of e-commerce sales perform
 
 ![Ecommerce Sales Dashboard](./Ecommerce_Sales_Dashboard.png)
 
-![Ecommerce_Sales_Dashboard.png](./Dashboard/Ecommerce_Sales_Dashboard.png)
+![Excelclean.Pnj.PNG](./Excelclean.Pnj.PNG)
 
 ### A. KPI Cards
 
