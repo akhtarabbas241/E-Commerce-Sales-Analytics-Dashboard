@@ -33,9 +33,12 @@ The following tools and technologies were used or are relevant to this project:
 
 The dashboard is designed to provide a complete view of e-commerce sales performance in a single interactive report.
 
-![E-Commerce Sales Analytics Dashboard](./Dashboard/Ecommerce_Sales_Dashboard.png)
+![E-Commerce Sales Analytics Dashboard](./Dashboard/ecommerce_sales_dashboard.png)
 
 ### A. KPI Cards
+
+
+Ecommerce_Sales_Dashboard.png
 
 The top section of the dashboard displays five important business metrics:
 
